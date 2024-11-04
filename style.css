@@ -1,0 +1,36 @@
+html, body {
+  margin: 0px;
+  background-color: #2F4F30;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.titulo {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.carta {
+  position: relative;
+  height: 220px;
+  left: 106px;
+  margin-left: -72px;
+}
+
+#jugador-cartas, #computadora-cartas {
+  align-content: center;
+  margin-left: -144px;
+  height: 250px;
+}
+
+#spacer {
+  height: 20px;
+}
+
+#puntosJugadoresHTML {
+  margin-left: 10px;
+}
